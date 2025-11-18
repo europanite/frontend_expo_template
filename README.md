@@ -17,6 +17,8 @@ A Client Side Metro Template.
 ### 2. Build and start all services:
 
 ```bash
+# set environment variables:
+export REACT_NATIVE_PACKAGER_HOSTNAME=${YOUR_HOST}
 
 # Build the image
 docker compose build
