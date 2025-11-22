@@ -1,5 +1,9 @@
 # [Frontend Metro Template](https://github.com/europanite/frontend_metro_template "Frontend Metro Template")
 
+[![CI](https://github.com/europanite/frontend_metro_template/actions/workflows/ci.yml/badge.svg)](https://github.com/europanite/frontend_metro_template/actions/workflows/ci.yml)
+[![docker](https://github.com/europanite/frontend_metro_template/actions/workflows/docker.yml/badge.svg)](https://github.com/europanite/frontend_metro_template/actions/workflows/docker.yml)
+[![GitHub Pages](https://github.com/europanite/frontend_metro_template/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/europanite/frontend_metro_template/actions/workflows/deploy-pages.yml)
+
 !["web_ui"](./assets/images/web_ui.png)
 
 [PlayGround](https://europanite.github.io/frontend_metro_template/)
