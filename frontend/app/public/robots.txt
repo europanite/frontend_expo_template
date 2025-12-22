@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://europanite.github.io/frontend_expo_template/sitemap.xml
