@@ -32,7 +32,7 @@ export default function HomeScreen() {
               textDecorationLine: "underline",
             }}
           >
-            Frontend Metro Template
+            Frontend Expo Template
           </Text>
         </TouchableOpacity>
       </View>
