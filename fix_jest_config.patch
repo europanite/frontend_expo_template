@@ -1,0 +1,16 @@
+diff --git a/frontend/app/jest.config.ts b/frontend/app/jest.config.cjs
+similarity index 100%
+rename from frontend/app/jest.config.ts
+rename to frontend/app/jest.config.cjs
+diff --git a/frontend/app/__mocks__/fileMock.js b/frontend/app/__mocks__/fileMock.js
+new file mode 100644
+--- /dev/null
++++ b/frontend/app/__mocks__/fileMock.js
+@@ -0,0 +1 @@
++module.exports = 'test-file-stub';
+diff --git a/frontend/app/__mocks__/styleMock.js b/frontend/app/__mocks__/styleMock.js
+new file mode 100644
+--- /dev/null
++++ b/frontend/app/__mocks__/styleMock.js
+@@ -0,0 +1 @@
++module.exports = {};
