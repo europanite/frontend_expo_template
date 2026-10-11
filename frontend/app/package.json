@@ -11,13 +11,15 @@
     "test:ci": "jest --ci --runInBand"
   },
   "dependencies": {
-    "@expo/metro-runtime": "^6.1.2",
+    "@expo/metro-runtime": "~6.1.2",
     "@react-navigation/native": "^7.1.18",
     "@react-navigation/native-stack": "^7.3.26",
     "expo": "^54.0.25",
     "expo-status-bar": "^3.0.8",
+    "react-dom": "19.1.0",
     "react-native": "^0.81.5",
-    "react-native-safe-area-context": "^5.6.1"
+    "react-native-safe-area-context": "^5.6.1",
+    "react-native-web": "^0.21.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^6.9.1",
