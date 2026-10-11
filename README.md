@@ -5,7 +5,7 @@
 
 [![CI](https://github.com/europanite/frontend_expo_template/actions/workflows/ci.yml/badge.svg)](https://github.com/europanite/frontend_expo_template/actions/workflows/ci.yml)
 [![docker](https://github.com/europanite/frontend_expo_template/actions/workflows/docker.yml/badge.svg)](https://github.com/europanite/frontend_expo_template/actions/workflows/docker.yml)
-[![GitHub Pages](https://github.com/europanite/frontend_expo_template/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/europanite/frontend_expo_template/actions/workflows/deploy-pages.yml)
+[![GitHub Pages](https://github.com/europanite/frontend_expo_template/actions/workflows/pages.yml/badge.svg)](https://github.com/europanite/frontend_expo_template/actions/workflows/pages.yml)
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
